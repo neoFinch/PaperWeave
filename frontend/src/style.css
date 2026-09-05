@@ -1,0 +1,5 @@
+html, body, #root { margin: 0; width: 100%; height: 100%; overflow: hidden; }
+body { user-select: none; }
+input { user-select: text; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: #cfd0c8; border-radius: 10px; border: 2px solid transparent; background-clip: padding-box; }
